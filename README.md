@@ -1,7 +1,7 @@
 # 10 Days of Statistics
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="200">
-Welcome to the **10 Days of Statistics** ! This repository is a curated collection of problems designed to strengthen your foundational understanding of statistics and probability. Whether you're a beginner looking to explore data analysis or a seasoned coder sharpening your skills, this challenge has something for everyone.
+Welcome to the 10 Days of Statistics! This repository is a curated collection of problems designed to strengthen your foundational understanding of statistics and probability. Whether you're a beginner looking to explore data analysis or a seasoned coder sharpening your skills, this challenge has something for everyone.
 
 
 
