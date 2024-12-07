@@ -1,8 +1,9 @@
 # 10 Days of Statistics
 
-![HackerRank Logo](https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png)
+![HackerRank Logo](https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png){width=200px}
 
 Welcome to the **10 Days of Statistics**! This repository is a curated collection of problems designed to strengthen your foundational understanding of statistics and probability. Whether you're a beginner looking to explore data analysis or a seasoned coder sharpening your skills, this challenge has something for everyone.
+
 
 
 ## 🌟 What You'll Learn
@@ -13,6 +14,7 @@ In this challenge, you will:
 - Dive into **probability concepts**, such as compound events, conditional probability, and distributions.
 - Explore advanced topics like **binomial and Poisson distributions**, and **regression analysis**.
 - Solve real-world problems through coding and learn to interpret statistical data.
+
 
 
 ## 📂 Repository Structure
@@ -36,6 +38,7 @@ Each folder represents a day of the challenge, containing problems and their sol
 ├── Day 9
 │   ├── Multiple-Linear-Regression
 ```
+
 
 
 ## 🚀 How to Use This Repository
@@ -64,10 +67,12 @@ Each folder represents a day of the challenge, containing problems and their sol
    ```
 
 
+
 ## 🛠️ Prerequisites
 
 - Basic knowledge of Python programming.
 - Python installed on your system (preferably version 3.6+).
+
 
 
 ## 🎯 Challenge Highlights
@@ -87,6 +92,7 @@ Each folder represents a day of the challenge, containing problems and their sol
 ... and much more!
 
 
+
 ## 🤝 Contributing
 
 Contributions are welcome! If you have alternative solutions or enhancements, feel free to open a pull request.
@@ -99,6 +105,7 @@ Contributions are welcome! If you have alternative solutions or enhancements, fe
 5. Submit a pull request.
 
 
+
 ## 📧 Contact
 
 Feel free to reach out for suggestions or questions:
@@ -106,9 +113,11 @@ Feel free to reach out for suggestions or questions:
 - **Email**: [keerthanab610@gmail.com](mailto:keerthanab610@gmail.com)
 
 
+
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Keerthana--B-blue)](https://www.linkedin.com/in/keerthana-b-904b79256/)
+
 
 
 Happy Coding! 😊
